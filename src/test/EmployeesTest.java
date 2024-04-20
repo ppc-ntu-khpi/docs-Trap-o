@@ -15,6 +15,5 @@ public class EmployeesTest {
         Manager man = new Manager(people, "Steve Ballmer", "CEO", 3, "Publishing");
 
         System.out.println(man);
-
     }
 }
